@@ -20,7 +20,8 @@ El programa muestra el sueldo anual y la cantidad que corresponde pagar mensualm
 
 Para desarrollar el programa utilicé tres variables de tipo double: una para el sueldo mensual, otra para el sueldo anual y una última para almacenar el ISR. También utilicé las estructuras condicionales if, else if y else para evaluar los rangos salariales y realizar el cálculo correspondiente.
 
-<img width="1100" height="209" alt="image" src="https://github.com/user-attachments/assets/f2fb11d4-bd3d-4c3a-9546-787e1c78e3f7" />
+<img width="838" height="84" alt="image" src="https://github.com/user-attachments/assets/1aae2832-3935-4358-88b4-fb65f379e7b9" />
+
 
 <img width="1092" height="182" alt="image" src="https://github.com/user-attachments/assets/687836fc-a9a7-42f4-b963-3f53e76a8eed" />
 
