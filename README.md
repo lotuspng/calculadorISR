@@ -3,23 +3,20 @@ Programa de cálculo del ISR
 Nombre: Erick J. Valdez
 Matrícula: 2026 - 1792
 
-Descripción del programa
 
 Este programa permite calcular el Impuesto Sobre la Renta (ISR) tomando como referencia el sueldo mensual de una persona. Su propósito es determinar cuánto le corresponde pagar de impuesto según los rangos salariales establecidos.
 
-Datos de entrada
+
 
 El único dato que necesita el programa es el sueldo mensual de la persona. Este valor lo introduce el usuario cuando el programa lo solicita.
 
-Procesamiento de los datos
+
 
 Primero, el programa multiplica el sueldo mensual por 12 para obtener el sueldo anual. Después, compara ese resultado con los diferentes rangos salariales. Dependiendo del rango en el que se encuentre, aplica el porcentaje correspondiente para calcular el ISR anual y luego lo divide entre 12 para obtener el monto mensual.
 
-Datos de salida
 
 El programa muestra el sueldo anual y la cantidad que corresponde pagar mensualmente de ISR. Si el sueldo se encuentra dentro del rango exento, muestra un mensaje indicando que no aplica el pago del impuesto.
 
-Estructura y funcionamiento
 
 Para desarrollar el programa utilicé tres variables de tipo double: una para el sueldo mensual, otra para el sueldo anual y una última para almacenar el ISR. También utilicé las estructuras condicionales if, else if y else para evaluar los rangos salariales y realizar el cálculo correspondiente.
 
